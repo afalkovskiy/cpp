@@ -12,7 +12,7 @@ int main() {
 
         "│         │",
 
-        "└─────────┘",};  // An array with 6 elements
+        "└─────────┘",};  // An array with 5 elements
 
 
   for (string el : d1) {
